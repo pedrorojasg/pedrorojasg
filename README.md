@@ -21,7 +21,7 @@
 
 Senior software engineer with **10+ years** designing, building, and scaling web apps for companies in the US and Europe — a backend-leaning full-stack focus: production **Python/Django** APIs, **React/TypeScript** front ends, and applied **AI/LLM** features. I care about clean architecture, tests, and shipping things people actually use. I've also taught and mentored Python/Django to many cohorts of new developers.
 
-> Most of my professional work lives in private repositories. The projects below are built specifically to show how I work end-to-end — design, code, tests, CI, and live deployments.
+<!-- > Most of my professional work lives in private repositories. The projects below are built specifically to show how I work end-to-end — design, code, tests, CI, and live deployments.
 
 ---
 
@@ -85,7 +85,7 @@ Merged contributions to widely-used Python projects:
 
 **Languages:** Spanish (native) · English (C2) · Portuguese (basic).
 
-📥 **[Download full résumé (PDF)](assets/Pedro_Rojas_Gavidia_Resume.pdf)** <!-- TODO: add the PDF to /assets, or replace with an external link -->
+📥 **[Download full résumé (PDF)](assets/Pedro_Rojas_Gavidia_Resume.pdf)** TODO: add the PDF to /assets, or replace with an external link -->
 
 ---
 

@@ -113,6 +113,6 @@ Merged contributions to widely-used Python projects:
 - **LinkedIn:** https://ve.linkedin.com/in/pedro-rojas-gavidia
 - **Email:** pedrorojas.gavidia@gmail.com
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrorojasg&show_icons=true&hide_border=true" alt="GitHub stats" height="150">
-</p>
+</p> -->
